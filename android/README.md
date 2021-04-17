@@ -1,3 +1,6 @@
+# To Test The app
+visit this link [apple_detection.apk](https://drive.google.com/file/d/1bf6ER-EtC0OdjlCEnGzaOzCZ-i4YTUHd/view?usp=sharing)
+
 # TensorFlow Lite Object Detection Android Demo
 
 ### Overview
