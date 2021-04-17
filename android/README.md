@@ -1,5 +1,6 @@
 # To Test The app
 visit this link [apple_detection.apk](https://drive.google.com/file/d/1bf6ER-EtC0OdjlCEnGzaOzCZ-i4YTUHd/view?usp=sharing)
+This app is a testing app for detecting apple_detection_model trained with tensorflow in python
 
 # TensorFlow Lite Object Detection Android Demo
 
